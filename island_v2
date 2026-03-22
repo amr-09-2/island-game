@@ -1,5 +1,4 @@
 
-# I made this while learning Python basics
 class IslandGame:
 
     def __init__(self):
